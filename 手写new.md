@@ -36,5 +36,7 @@ fn.apply(fn,...args)
         fn.apply(obj,args)
         return obj
     }
+let obj=_new(Person,'z','l');
+console.log(obj)
 ```
 
